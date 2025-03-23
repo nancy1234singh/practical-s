@@ -1,4 +1,4 @@
-PRAC 10 Create a class Triangle include overloaded functions for calculating area.Overloaded assignment operator and equality operator.
+//PRAC 10 Create a class Triangle include overloaded functions for calculating area.Overloaded assignment operator and equality operator.
 
 #include <iostream> 
 using namespace std; 
