@@ -1,4 +1,4 @@
-PRAC 4 Write a menu driven program to perform string manipulation (without using inbuiltstring functions): 
+//PRAC 4 Write a menu driven program to perform string manipulation (without using inbuiltstring functions): 
 
 //a. Show address of each character in string
 #include <iostream> 
