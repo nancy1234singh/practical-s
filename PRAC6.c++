@@ -1,4 +1,4 @@
-PRAC 6 Write a program to search a given element in a set of N numbers using Binary search(i) with recursion (ii) without recursion.
+//PRAC 6 Write a program to search a given element in a set of N numbers using Binary search(i) with recursion (ii) without recursion.
 
 #include <iostream>
 #include <vector>
