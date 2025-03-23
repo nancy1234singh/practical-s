@@ -1,4 +1,4 @@
-PRAC 7 Write a program to calculate GCD of two numbers (i) with recurssuion  (ii) without recurssion :
+//PRAC 7 Write a program to calculate GCD of two numbers (i) with recurssuion  (ii) without recurssion :
 
 #include <iostream>
 
