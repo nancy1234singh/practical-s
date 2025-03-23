@@ -1,4 +1,4 @@
-PRAC 3 Write a program that prints a table indicating the number of occurrences of eachalphabet in the text entered as command line arguments.
+//PRAC 3 Write a program that prints a table indicating the number of occurrences of eachalphabet in the text entered as command line arguments.
 
 #include <iostream>
 #include <string>
